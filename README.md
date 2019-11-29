@@ -13,5 +13,5 @@ Homework assignments for UCF's CAP 4630, Intro to Artificial Intelligence course
 - CIFAR10 with convolutional neural net
 
 **Homework 2**
-- Tranfer learning on military vehicles dataset
+- Transfer learning on military vehicles dataset
 - Fine tuning CNNs
